@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Archive"
-description: "文章归档"
+title: "每日价格"
+description: "每日价格"
 header-img: "img/orange.jpg"
 ---
 
